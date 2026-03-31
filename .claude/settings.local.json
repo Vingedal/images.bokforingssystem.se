@@ -5,7 +5,11 @@
       "Bash(python:*)",
       "Bash(pip install:*)",
       "Bash(magick --version)",
-      "Bash(convert --version)"
+      "Bash(convert --version)",
+      "Bash(identify screenshot/1-web-wint-dashboard.webp screenshot/1-web-wint-dashboard-thumbnail.webp screenshot/44-web-lumion-hemsida.png screenshot/44-web-lumion-startsida.png)",
+      "Bash(magick identify:*)",
+      "Bash(python3 -c \"from PIL import Image; [print\\(f''{f}: {Image.open\\(f\\).size}''\\) for f in [''screenshot/1-web-wint-dashboard.webp'', ''screenshot/1-web-wint-dashboard-thumbnail.webp'', ''screenshot/44-web-lumion-hemsida.png'', ''screenshot/44-web-lumion-startsida.png'']]\")",
+      "Bash(python3:*)"
     ]
   }
 }
