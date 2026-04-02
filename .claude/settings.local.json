@@ -15,7 +15,11 @@
       "Read(//c/Program Files \\(x86\\)/**)",
       "Bash(/c/Program Files/ImageMagick-7.1.2-Q16-HDRI/magick.exe identify:*)",
       "Bash(/c/Program Files/ImageMagick-7.1.2-Q16-HDRI/magick.exe:*)",
-      "Bash(\"/c/Program Files/ImageMagick-7.1.2-Q16-HDRI/magick.exe\" identify -verbose logo/spiris.webp)"
+      "Bash(\"/c/Program Files/ImageMagick-7.1.2-Q16-HDRI/magick.exe\" identify -verbose logo/spiris.webp)",
+      "WebFetch(domain:lumion.se)",
+      "WebFetch(domain:d6f943ac3cbaf77fce0eed2062a9925a.cdn.bubble.io)",
+      "WebSearch",
+      "Bash(\"/c/Program Files/ImageMagick-7.1.2-Q16-HDRI/magick.exe\" identify -verbose logo/Lumion.png)"
     ]
   }
 }
