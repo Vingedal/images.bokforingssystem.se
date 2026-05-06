@@ -21,7 +21,9 @@
       "WebSearch",
       "Bash(\"/c/Program Files/ImageMagick-7.1.2-Q16-HDRI/magick.exe\" identify -verbose logo/Lumion.png)",
       "Bash(where cwebp *)",
-      "Bash(magick people/bokio-daniel.png people/bokio-daniel.webp)"
+      "Bash(magick people/bokio-daniel.png people/bokio-daniel.webp)",
+      "Bash(magick logo/lumion.png logo/lumion.webp)",
+      "Bash(magick people/lumion-ludvig.JPEG people/lumion-ludvig.webp)"
     ]
   }
 }
