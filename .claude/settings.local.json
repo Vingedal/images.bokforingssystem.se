@@ -23,7 +23,8 @@
       "Bash(where cwebp *)",
       "Bash(magick people/bokio-daniel.png people/bokio-daniel.webp)",
       "Bash(magick logo/lumion.png logo/lumion.webp)",
-      "Bash(magick people/lumion-ludvig.JPEG people/lumion-ludvig.webp)"
+      "Bash(magick people/lumion-ludvig.JPEG people/lumion-ludvig.webp)",
+      "Bash(magick logo/lumion.png -trim +repage logo/lumion.webp)"
     ]
   }
 }
